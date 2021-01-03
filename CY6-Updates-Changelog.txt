@@ -4,7 +4,29 @@ IP: 144.76.113.251:2310
 
 
 Version 5.0 january-2-2021
-1.
-2.
-3.
-4.
+
+1st. Added a new WAI mission called Traps Pub. Context of the mission is that trap took over a pub from survivor's and is calling it his. So kill the gang and regain the pub.
+
+2nd. Added a progress bar system by Choc's. 3steps to raid a base now. 2 for packing and deploying and anything else like harvesting and refining oil.
+
+3rd. Removed our custom notif system off the mission's. Being reworked.
+
+4th. Added some huge garage buildings around the map. Find them and you can build in them.
+
+5th. Reworked AI skins still testing the waters with this one and i might remove it to make it work better.
+
+6th. few text error fixes.
+
+7th. Fixed the cleanup server script. should work now.
+
+8th. Updated the AH.
+
+9th. Fixed the blow door feature. Buy the perk to be able to raid bases. Also you will need electronic scrap which you can get from crafting at your plot pole or by buying them with XP.
+
+10th. Reworked server side of XP again.
+
+11th. MV22 Wont delete now like it did before from the MV22 extraction mission.
+
+12th. Added sounds to raiding bases.
+
+13th. I did more work but i was super tired last night so i dont quite remember wat else i did haha.
