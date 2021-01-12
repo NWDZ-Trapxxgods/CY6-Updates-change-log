@@ -30,3 +30,37 @@ Version 5.0 january-2-2021
 12th. Added sounds to raiding bases.
 
 13th. I did more work but i was super tired last night so i dont quite remember wat else i did haha.
+
+
+Version 5.1 january-12-2021
+
+1st. New version of server mission notifications.
+
+2nd. Reworked some old WAI missions.
+
+3rd. Reworked Perks menu. Shouldnt be compact now.
+
+4th. Removed progress bar from deployable vehicles.
+
+5th. Reworked server menu.
+
+6th. Reworked ATM Menu.
+
+7th. New Spawn menu.
+
+8th. Added Jackal 2 to bandit and hero.
+
+9th. Fixed prices with littlebirds. 
+
+10th. Fixed Hemp price.
+
+11th. Added metis rockets to bandit and hero.
+
+12th. AI from missions will be abit harder to fight.
+
+13th. Added all the varients Dingo.
+
+14th. Deleted that random cargo box that was floating in the air near zelen.
+
+15th. Removed patrol/ vehicle drop mission. Patrol is being touched up abit same with vehicle drop.
+
