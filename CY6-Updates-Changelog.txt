@@ -64,3 +64,4 @@ Version 5.1 january-12-2021
 
 15th. Removed patrol/ vehicle drop mission. Patrol is being touched up abit same with vehicle drop.
 
+16th. Cleaned up the stringable file removed unused text. 
